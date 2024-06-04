@@ -1,0 +1,7 @@
+{
+  "name": "reserva-clases",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
